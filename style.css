@@ -1,0 +1,51 @@
+body {
+    background-image: url("Garage.png");
+    background-size: cover;
+    color: white;
+    overflow: hidden;
+}
+
+#myCanvas {
+    margin-top: 30px;
+    border-width: 10px;
+    background-image: url("Road.jpg");
+    background-size: contain;
+    border-style: ridge;
+}
+
+#up {
+    background-image: url("up-arrow.png");
+    background-size: cover;
+    height: 75px;
+    width: 75px;
+}
+
+#left {
+    background-image: url("left-arrow.png");
+    background-size: cover;
+    height: 75px;
+    width: 75px;
+}
+
+#down {
+    background-image: url("down-arrow.png");
+    background-size: cover;
+    height: 75px;
+    width: 75px;
+    margin: 10px;
+}
+
+#right {
+    background-image: url("right-arrow.png");
+    background-size: cover;
+    height: 75px;
+    width: 75px;
+}
+
+#horn {
+    background-image: url("Horn.png");
+    background-size: cover;
+    height: 75px;
+    width: 75px;
+    margin-left: 10px;
+}
